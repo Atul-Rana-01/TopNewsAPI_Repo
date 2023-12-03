@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TopNews.Services/1.0.0": {
+        "dependencies": {
+          "TopNews.Core": "1.0.0"
+        },
+        "runtime": {
+          "TopNews.Services.dll": {}
+        }
+      },
+      "TopNews.Core/1.0.0": {
+        "runtime": {
+          "TopNews.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TopNews.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TopNews.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
