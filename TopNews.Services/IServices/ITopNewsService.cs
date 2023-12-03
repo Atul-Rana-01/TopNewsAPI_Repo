@@ -11,6 +11,4 @@ namespace TopNews.Core.Entity
     }
 }
 
-//https://hacker-news.firebaseio.com/v0/item/8863.json?print=pretty
 
-//https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty

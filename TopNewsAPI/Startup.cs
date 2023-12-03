@@ -30,6 +30,7 @@ namespace TopNewsAPI
         {
             services.AddControllers();
             services.AddScoped<ITopNews, TopNewsDAL>();
+            services.AddScoped<ITopNewsService, TopNewsService>();
             services.AddMemoryCache();
         }
 

@@ -20,8 +20,8 @@ namespace TopNews.TestProject
         public TopNewsAPITest(IMemoryCache memoryCache)
         {
             _memoryCache = memoryCache;
-            _service = new TopNewsDAL();
-            _controller = new TopNewsController(_service, _memoryCache);
+            _service = new TopNewsDAL(_memoryCache);
+            _controller = new TopNewsController(_service);
         }
 
         // Test case for check method returning data or not null
