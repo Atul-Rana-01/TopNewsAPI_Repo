@@ -15,3 +15,13 @@ E:\Test_Code\Test_Code\TopNews.Core\obj\Debug\netcoreapp3.1\TopNews.Core.Assembl
 E:\Test_Code\Test_Code\TopNews.Core\obj\Debug\netcoreapp3.1\TopNews.Core.csproj.CoreCompileInputs.cache
 E:\Test_Code\Test_Code\TopNews.Core\obj\Debug\netcoreapp3.1\TopNews.Core.dll
 E:\Test_Code\Test_Code\TopNews.Core\obj\Debug\netcoreapp3.1\TopNews.Core.pdb
+D:\TopNewsAPI_Repo\TopNews.Core\bin\Debug\netcoreapp3.1\TopNews.Core.deps.json
+D:\TopNewsAPI_Repo\TopNews.Core\bin\Debug\netcoreapp3.1\TopNews.Core.dll
+D:\TopNewsAPI_Repo\TopNews.Core\bin\Debug\netcoreapp3.1\TopNews.Core.pdb
+D:\TopNewsAPI_Repo\TopNews.Core\obj\Debug\netcoreapp3.1\TopNews.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\TopNewsAPI_Repo\TopNews.Core\obj\Debug\netcoreapp3.1\TopNews.Core.AssemblyInfoInputs.cache
+D:\TopNewsAPI_Repo\TopNews.Core\obj\Debug\netcoreapp3.1\TopNews.Core.AssemblyInfo.cs
+D:\TopNewsAPI_Repo\TopNews.Core\obj\Debug\netcoreapp3.1\TopNews.Core.csproj.CoreCompileInputs.cache
+D:\TopNewsAPI_Repo\TopNews.Core\obj\Debug\netcoreapp3.1\TopNews.Core.sourcelink.json
+D:\TopNewsAPI_Repo\TopNews.Core\obj\Debug\netcoreapp3.1\TopNews.Core.dll
+D:\TopNewsAPI_Repo\TopNews.Core\obj\Debug\netcoreapp3.1\TopNews.Core.pdb

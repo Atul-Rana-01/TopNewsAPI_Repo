@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8X56cEY+UJ0FC5t5x7ALAaE2SnqRZJvCRCZbE39Vs8ng2h6G9xxpuO0J0iXDxJJz/dnonc1JVlp1CtrfFd41aw==",
+  "dgSpecHash": "IDcwf19W1f7tuq1RlajcyI3bMXZX/MQEyVmUD/7jYXEIJl67YJYoy8vunrDjbV+IBJnVz069i43UaInZRy/vYA==",
   "success": true,
-  "projectFilePath": "E:\\Test_Code\\Test_Code\\TopNewsAPI\\TopNewsAPI.csproj",
+  "projectFilePath": "D:\\TopNewsAPI_Repo\\TopNewsAPI\\TopNewsAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Atul Rana\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\ATUL RANA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

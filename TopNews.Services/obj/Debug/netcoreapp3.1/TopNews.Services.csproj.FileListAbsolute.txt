@@ -23,3 +23,17 @@ E:\Test_Code\Test_Code\TopNews.Services\obj\Debug\netcoreapp3.1\TopNews.Services
 E:\Test_Code\Test_Code\TopNews.Services\obj\Debug\netcoreapp3.1\TopNews.Services.csproj.CopyComplete
 E:\Test_Code\Test_Code\TopNews.Services\obj\Debug\netcoreapp3.1\TopNews.Services.dll
 E:\Test_Code\Test_Code\TopNews.Services\obj\Debug\netcoreapp3.1\TopNews.Services.pdb
+D:\TopNewsAPI_Repo\TopNews.Services\bin\Debug\netcoreapp3.1\TopNews.Services.deps.json
+D:\TopNewsAPI_Repo\TopNews.Services\bin\Debug\netcoreapp3.1\TopNews.Services.dll
+D:\TopNewsAPI_Repo\TopNews.Services\bin\Debug\netcoreapp3.1\TopNews.Services.pdb
+D:\TopNewsAPI_Repo\TopNews.Services\bin\Debug\netcoreapp3.1\TopNews.Core.dll
+D:\TopNewsAPI_Repo\TopNews.Services\bin\Debug\netcoreapp3.1\TopNews.Core.pdb
+D:\TopNewsAPI_Repo\TopNews.Services\obj\Debug\netcoreapp3.1\TopNews.Services.csproj.AssemblyReference.cache
+D:\TopNewsAPI_Repo\TopNews.Services\obj\Debug\netcoreapp3.1\TopNews.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\TopNewsAPI_Repo\TopNews.Services\obj\Debug\netcoreapp3.1\TopNews.Services.AssemblyInfoInputs.cache
+D:\TopNewsAPI_Repo\TopNews.Services\obj\Debug\netcoreapp3.1\TopNews.Services.AssemblyInfo.cs
+D:\TopNewsAPI_Repo\TopNews.Services\obj\Debug\netcoreapp3.1\TopNews.Services.csproj.CoreCompileInputs.cache
+D:\TopNewsAPI_Repo\TopNews.Services\obj\Debug\netcoreapp3.1\TopNews.Services.sourcelink.json
+D:\TopNewsAPI_Repo\TopNews.Services\obj\Debug\netcoreapp3.1\TopNews.Services.csproj.CopyComplete
+D:\TopNewsAPI_Repo\TopNews.Services\obj\Debug\netcoreapp3.1\TopNews.Services.dll
+D:\TopNewsAPI_Repo\TopNews.Services\obj\Debug\netcoreapp3.1\TopNews.Services.pdb

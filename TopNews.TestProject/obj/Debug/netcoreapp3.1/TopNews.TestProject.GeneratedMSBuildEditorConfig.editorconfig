@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = TopNews.TestProject
-build_property.ProjectDir = D:\Test_Code\TopNews.TestProject\
+build_property.ProjectDir = D:\TopNewsAPI_Repo\TopNews.TestProject\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

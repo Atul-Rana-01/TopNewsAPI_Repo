@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TopNews.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0ce6f19e802a6edad67641defb39fcd49373a38")]
 [assembly: System.Reflection.AssemblyProductAttribute("TopNews.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TopNews.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

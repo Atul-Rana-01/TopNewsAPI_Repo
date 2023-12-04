@@ -1,29 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Test_Code\\Test_Code\\TopNewsAPI\\TopNewsAPI.csproj": {}
+    "D:\\TopNewsAPI_Repo\\TopNewsAPI\\TopNewsAPI.csproj": {}
   },
   "projects": {
-    "E:\\Test_Code\\Test_Code\\TopNews.Core\\TopNews.Core.csproj": {
+    "D:\\TopNewsAPI_Repo\\TopNews.Core\\TopNews.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Test_Code\\Test_Code\\TopNews.Core\\TopNews.Core.csproj",
+        "projectUniqueName": "D:\\TopNewsAPI_Repo\\TopNews.Core\\TopNews.Core.csproj",
         "projectName": "TopNews.Core",
-        "projectPath": "E:\\Test_Code\\Test_Code\\TopNews.Core\\TopNews.Core.csproj",
-        "packagesPath": "C:\\Users\\Atul Rana\\.nuget\\packages\\",
-        "outputPath": "E:\\Test_Code\\Test_Code\\TopNews.Core\\obj\\",
+        "projectPath": "D:\\TopNewsAPI_Repo\\TopNews.Core\\TopNews.Core.csproj",
+        "packagesPath": "C:\\Users\\ATUL RANA\\.nuget\\packages\\",
+        "outputPath": "D:\\TopNewsAPI_Repo\\TopNews.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Atul Rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ATUL RANA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -47,47 +45,60 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Test_Code\\Test_Code\\TopNews.Data\\TopNews.Data.csproj": {
+    "D:\\TopNewsAPI_Repo\\TopNews.Data\\TopNews.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Test_Code\\Test_Code\\TopNews.Data\\TopNews.Data.csproj",
+        "projectUniqueName": "D:\\TopNewsAPI_Repo\\TopNews.Data\\TopNews.Data.csproj",
         "projectName": "TopNews.Data",
-        "projectPath": "E:\\Test_Code\\Test_Code\\TopNews.Data\\TopNews.Data.csproj",
-        "packagesPath": "C:\\Users\\Atul Rana\\.nuget\\packages\\",
-        "outputPath": "E:\\Test_Code\\Test_Code\\TopNews.Data\\obj\\",
+        "projectPath": "D:\\TopNewsAPI_Repo\\TopNews.Data\\TopNews.Data.csproj",
+        "packagesPath": "C:\\Users\\ATUL RANA\\.nuget\\packages\\",
+        "outputPath": "D:\\TopNewsAPI_Repo\\TopNews.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Atul Rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ATUL RANA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Test_Code\\Test_Code\\TopNews.Core\\TopNews.Core.csproj": {
-                "projectPath": "E:\\Test_Code\\Test_Code\\TopNews.Core\\TopNews.Core.csproj"
+              "D:\\TopNewsAPI_Repo\\TopNews.Core\\TopNews.Core.csproj": {
+                "projectPath": "D:\\TopNewsAPI_Repo\\TopNews.Core\\TopNews.Core.csproj"
               }
             }
           }
@@ -113,47 +124,60 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Test_Code\\Test_Code\\TopNews.Services\\TopNews.Services.csproj": {
+    "D:\\TopNewsAPI_Repo\\TopNews.Services\\TopNews.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Test_Code\\Test_Code\\TopNews.Services\\TopNews.Services.csproj",
+        "projectUniqueName": "D:\\TopNewsAPI_Repo\\TopNews.Services\\TopNews.Services.csproj",
         "projectName": "TopNews.Services",
-        "projectPath": "E:\\Test_Code\\Test_Code\\TopNews.Services\\TopNews.Services.csproj",
-        "packagesPath": "C:\\Users\\Atul Rana\\.nuget\\packages\\",
-        "outputPath": "E:\\Test_Code\\Test_Code\\TopNews.Services\\obj\\",
+        "projectPath": "D:\\TopNewsAPI_Repo\\TopNews.Services\\TopNews.Services.csproj",
+        "packagesPath": "C:\\Users\\ATUL RANA\\.nuget\\packages\\",
+        "outputPath": "D:\\TopNewsAPI_Repo\\TopNews.Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Atul Rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ATUL RANA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Test_Code\\Test_Code\\TopNews.Core\\TopNews.Core.csproj": {
-                "projectPath": "E:\\Test_Code\\Test_Code\\TopNews.Core\\TopNews.Core.csproj"
+              "D:\\TopNewsAPI_Repo\\TopNews.Core\\TopNews.Core.csproj": {
+                "projectPath": "D:\\TopNewsAPI_Repo\\TopNews.Core\\TopNews.Core.csproj"
               }
             }
           }
@@ -173,53 +197,66 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Test_Code\\Test_Code\\TopNewsAPI\\TopNewsAPI.csproj": {
+    "D:\\TopNewsAPI_Repo\\TopNewsAPI\\TopNewsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Test_Code\\Test_Code\\TopNewsAPI\\TopNewsAPI.csproj",
+        "projectUniqueName": "D:\\TopNewsAPI_Repo\\TopNewsAPI\\TopNewsAPI.csproj",
         "projectName": "TopNewsAPI",
-        "projectPath": "E:\\Test_Code\\Test_Code\\TopNewsAPI\\TopNewsAPI.csproj",
-        "packagesPath": "C:\\Users\\Atul Rana\\.nuget\\packages\\",
-        "outputPath": "E:\\Test_Code\\Test_Code\\TopNewsAPI\\obj\\",
+        "projectPath": "D:\\TopNewsAPI_Repo\\TopNewsAPI\\TopNewsAPI.csproj",
+        "packagesPath": "C:\\Users\\ATUL RANA\\.nuget\\packages\\",
+        "outputPath": "D:\\TopNewsAPI_Repo\\TopNewsAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Atul Rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ATUL RANA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Test_Code\\Test_Code\\TopNews.Core\\TopNews.Core.csproj": {
-                "projectPath": "E:\\Test_Code\\Test_Code\\TopNews.Core\\TopNews.Core.csproj"
+              "D:\\TopNewsAPI_Repo\\TopNews.Core\\TopNews.Core.csproj": {
+                "projectPath": "D:\\TopNewsAPI_Repo\\TopNews.Core\\TopNews.Core.csproj"
               },
-              "E:\\Test_Code\\Test_Code\\TopNews.Data\\TopNews.Data.csproj": {
-                "projectPath": "E:\\Test_Code\\Test_Code\\TopNews.Data\\TopNews.Data.csproj"
+              "D:\\TopNewsAPI_Repo\\TopNews.Data\\TopNews.Data.csproj": {
+                "projectPath": "D:\\TopNewsAPI_Repo\\TopNews.Data\\TopNews.Data.csproj"
               },
-              "E:\\Test_Code\\Test_Code\\TopNews.Services\\TopNews.Services.csproj": {
-                "projectPath": "E:\\Test_Code\\Test_Code\\TopNews.Services\\TopNews.Services.csproj"
+              "D:\\TopNewsAPI_Repo\\TopNews.Services\\TopNews.Services.csproj": {
+                "projectPath": "D:\\TopNewsAPI_Repo\\TopNews.Services\\TopNews.Services.csproj"
               }
             }
           }
@@ -239,7 +276,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -251,7 +289,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

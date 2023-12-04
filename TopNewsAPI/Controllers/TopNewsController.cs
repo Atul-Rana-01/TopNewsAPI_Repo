@@ -15,10 +15,7 @@ namespace TopNewsAPI.Controllers
     [Route("[controller]")]
     public class TopNewsController : ControllerBase
     {
-
-
         private readonly IMemoryCache _memoryCache;
-        // private readonly ITopNews _topnews;
         private readonly ITopNewsService _topnews;
 
         public TopNewsController(ITopNewsService topnews, IMemoryCache memoryCache)
@@ -29,10 +26,10 @@ namespace TopNewsAPI.Controllers
         // GET: TopNewsController
         [HttpGet]
         public List<TopNewsModel> Get()
-        
+
         {
             var lstTopNews = _memoryCache.Get<List<TopNewsModel>>("newsList");
-           
+
             //checking data in cache
             if (lstTopNews != null) //
             {
@@ -41,13 +38,18 @@ namespace TopNewsAPI.Controllers
 
             // set expiration time for cache
             var expirationTime = DateTimeOffset.Now.AddMinutes(35.0);
-            lstTopNews = _topnews.GetTopNews();
+            lstTopNews = getData();
 
             //set data in cache
             _memoryCache.Set("newsList", lstTopNews, expirationTime);
 
-         
+
             return lstTopNews;
+        }
+
+        public List<TopNewsModel> getData()
+        {
+            return _topnews.GetTopNews();
         }
 
 

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EpdgRiYA+yflniwZFQbZ2h14KxjGcT7vfesaA30i5p6XnsIVYKFLlCS0lCOhJEj+weN5L+KzztH68xeoB6tN9g==",
+  "dgSpecHash": "0/ef+2ZDEW8kQ65kT7RrJFFIFr+ROPcrZTd373SHvigpuVuaW9e7L/ge+lkoDhUpULokuDFgahTztWSwLpQWCQ==",
   "success": true,
-  "projectFilePath": "E:\\Test_Code\\Test_Code\\TopNews.Core\\TopNews.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\TopNewsAPI_Repo\\TopNews.Core\\TopNews.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ATUL RANA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ATUL RANA\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ATUL RANA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
