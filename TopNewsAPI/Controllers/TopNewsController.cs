@@ -29,6 +29,7 @@ namespace TopNewsAPI.Controllers
         // GET: TopNewsController
         [HttpGet]
         public List<TopNewsModel> Get()
+        
         {
             var lstTopNews = _memoryCache.Get<List<TopNewsModel>>("newsList");
            
@@ -39,7 +40,7 @@ namespace TopNewsAPI.Controllers
             }
 
             // set expiration time for cache
-            var expirationTime = DateTimeOffset.Now.AddMinutes(5.0);
+            var expirationTime = DateTimeOffset.Now.AddMinutes(35.0);
             lstTopNews = _topnews.GetTopNews();
 
             //set data in cache

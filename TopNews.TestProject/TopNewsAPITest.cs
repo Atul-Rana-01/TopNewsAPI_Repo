@@ -14,14 +14,16 @@ namespace TopNews.TestProject
     public class TopNewsAPITest
     {
         private readonly TopNewsController _controller;
-        private readonly ITopNews _service;
+        private readonly ITopNewsService _service;
         private readonly IMemoryCache _memoryCache;
+        private readonly ITopNews _entity;
 
-        public TopNewsAPITest(IMemoryCache memoryCache)
+        public TopNewsAPITest(ITopNews entity , IMemoryCache memoryCache)
         {
             _memoryCache = memoryCache;
-            _service = new TopNewsDAL(_memoryCache);
-            _controller = new TopNewsController(_service);
+            _entity = entity;
+            _service = new TopNewsService(_entity);
+            _controller = new TopNewsController(_service, _memoryCache);
         }
 
         // Test case for check method returning data or not null

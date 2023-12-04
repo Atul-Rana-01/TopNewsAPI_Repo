@@ -31,7 +31,7 @@ namespace TopNews.Data
                         if (response.StatusCode == System.Net.HttpStatusCode.OK)
                         {
                             // Deserialize data as list and selecting only top 200 IDs
-                            var listId = JsonConvert.DeserializeObject<List<int>>(response.Content.ReadAsStringAsync().Result).Take(2).ToList();
+                            var listId = JsonConvert.DeserializeObject<List<int>>(response.Content.ReadAsStringAsync().Result).Take(200).ToList();
 
                             // Calling method for getting data of each ID
                             await GetAllData(listId);

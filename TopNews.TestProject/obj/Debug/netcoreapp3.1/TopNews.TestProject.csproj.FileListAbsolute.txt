@@ -127,8 +127,6 @@ E:\Test_Code\Test_Code\TopNews.TestProject\bin\Debug\netcoreapp3.1\TopNews.TestP
 E:\Test_Code\Test_Code\TopNews.TestProject\bin\Debug\netcoreapp3.1\TopNews.TestProject.dll
 E:\Test_Code\Test_Code\TopNews.TestProject\bin\Debug\netcoreapp3.1\TopNews.TestProject.pdb
 E:\Test_Code\Test_Code\TopNews.TestProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-E:\Test_Code\Test_Code\TopNews.TestProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-E:\Test_Code\Test_Code\TopNews.TestProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 E:\Test_Code\Test_Code\TopNews.TestProject\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
 E:\Test_Code\Test_Code\TopNews.TestProject\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
 E:\Test_Code\Test_Code\TopNews.TestProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -138,7 +136,6 @@ E:\Test_Code\Test_Code\TopNews.TestProject\bin\Debug\netcoreapp3.1\Microsoft.Tes
 E:\Test_Code\Test_Code\TopNews.TestProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
 E:\Test_Code\Test_Code\TopNews.TestProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 E:\Test_Code\Test_Code\TopNews.TestProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-E:\Test_Code\Test_Code\TopNews.TestProject\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
 E:\Test_Code\Test_Code\TopNews.TestProject\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
 E:\Test_Code\Test_Code\TopNews.TestProject\bin\Debug\netcoreapp3.1\xunit.assert.dll
 E:\Test_Code\Test_Code\TopNews.TestProject\bin\Debug\netcoreapp3.1\xunit.core.dll
